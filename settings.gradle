@@ -1,0 +1,1 @@
+include ':app', ':swipedelete20', ':slidemenu', ':parallaxlistview'
